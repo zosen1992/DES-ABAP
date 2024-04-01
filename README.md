@@ -16,7 +16,6 @@ Creacion de programa de reportes de reingresos de pacientes, comparados entre ho
 
 creacion de proyecto de registro de promocioes adquiridas
 <img src="https://i.postimg.cc/KjR17VMk/Captura-de-pantalla-2024-03-26-094255.png" width="600"/>
-https://drive.google.com/file/d/1ORzVPEP6yk1sy1VJ2s9MXe-9g5cBLeIs/view?usp=drive_link
 
 Creacion de reporte de promociones capturadas
 <img src="https://i.postimg.cc/VL0Sdxw2/Captura-de-pantalla-2024-03-26-094502.png" width="600"/>
