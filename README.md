@@ -1,11 +1,11 @@
 Creacion de tablas Z (SE11)
 Creacion de programas ABAP(SE38)
 Creacion de creacion de transacciones (se93)
-Vizta de tablas (se16n)
-paso de transportes (se02)
+Vista de tablas (se16n)
+Paso de transportes (se01)
 Biblioteca de funciones (se37)
-Bachinputs
-debug
+Bachinputs(SM35)
+Debug
 
 Proyectos abap HZH 
 
