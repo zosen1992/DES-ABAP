@@ -5,7 +5,19 @@ Vista de tablas (se16n)
 Paso de transportes (se01)
 Biblioteca de funciones (se37)
 Bachinputs(SM35)
+Jobs (SM37, SM36)
+Transportes (SE01)
 Debug
+
+como vieron GitHub solo muestra los repositorios publicos, sin embargo tengo varios que son privados, y no se refleja en la actividad, mas adelante estan algunos trabajos hechos en SAP ABAP
+
+<img src="https://i.postimg.cc/ctwZ3Hzm/Captura-de-pantalla-2024-10-13-160147.png" width="600"/>
+
+<img src="https://i.postimg.cc/njsnHTYN/Captura-de-pantalla-2024-10-13-160201.png" width="600"/>
+
+<img src="https://i.postimg.cc/MMhqXR9H/Captura-de-pantalla-2024-10-13-160213.png" width="600"/>
+
+
 
 Proyectos abap HZH 
 
